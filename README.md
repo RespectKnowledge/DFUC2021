@@ -5,7 +5,7 @@ After different experiments, the vision transformer based models are applied on 
 The two different pretrained transformer used to extract the features and afterthis the pairwise concantenation of features has been applied before classification
 Please check the model file for further explanation.
 
-# You can download the dataset to use these codes from the following website.
+#You can download the dataset to use these codes from the following website.
 
 https://dfu-challenge.github.io/
 
