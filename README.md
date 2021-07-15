@@ -1,9 +1,9 @@
 # DFUC2021 MICCAI Challenge
-# These codes are tested using DFUC2021 MICCAI challenege dataset.
-# Initial, We have used the different pretrained models such as ResNet18, DensNet and efficientNet on preprocessed DFUC2021 dataset.
-# After different experiments, the vision transformer based models are applied on this challenege dataset and get resaonable performance.
-# The two different pretrained transformer used to extract the features and afterthis the pairwise concantenation of features has been applied before classification
-# Please check the model file for further explanation.
+These codes are tested using DFUC2021 MICCAI challenege dataset.
+Initial, We have used the different pretrained models such as ResNet18, DensNet and efficientNet on preprocessed DFUC2021 dataset.
+After different experiments, the vision transformer based models are applied on this challenege dataset and get resaonable performance.
+The two different pretrained transformer used to extract the features and afterthis the pairwise concantenation of features has been applied before classification
+Please check the model file for further explanation.
 
 # You can download the dataset to use these codes from the following website.
 
