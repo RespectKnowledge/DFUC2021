@@ -17,6 +17,8 @@ https://www.miccai2021.org/en/MICCAI2021-CHALLENGES.html
 
 #If you use use this code,please cit the following challenege paper.
 
+https://link.springer.com/chapter/10.1007/978-3-030-94907-5_5
+
 Yap, Moi Hoon, Bill Cassidy, Joseph M. Pappachan, Claire O'Shea, David Gillespie, and Neil Reeves. 
 "Analysis Towards Classification of Infection and Ischaemia of Diabetic Foot Ulcers." arXiv preprint arXiv:2104.03068 (2021).
 
